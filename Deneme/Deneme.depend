@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1687203911 source:c:\users\pc\desktop\deneme\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+
